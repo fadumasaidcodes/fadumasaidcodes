@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, Node.js, React, Git/Github**
 
-- 👯 I’m looking to collaborate on [Full Stack project](https://github.com/fadumasaidcodes/Building-Fullstack)
+- 🤝 I’m looking to collaborate on [Full Stack project](https://github.com/fadumasaidcodes/Building-Fullstack)
 
 - 👩 💻 All of my projects are available at [https://github.com/fadumasaidcodes/portfolio-2](https://github.com/fadumasaidcodes/portfolio-2)
 
