@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on [Full Stack project](https://github.com/fadumasaidcodes/Building-Fullstack)
 
-- 👨‍💻 All of my projects are available at [https://github.com/fadumasaidcodes/portfolio-2](https://github.com/fadumasaidcodes/portfolio-2)
+- 👩 💻 All of my projects are available at [https://github.com/fadumasaidcodes/portfolio-2](https://github.com/fadumasaidcodes/portfolio-2)
 
 - 📝 I regularly write articles on [https://github.com/fadumasaidcodes/Learning-Blog](https://github.com/fadumasaidcodes/Learning-Blog)
 
