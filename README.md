@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript, Node.js, React, Git/Github**
 
-- 📫 How to reach me **fadumasaid2022@gmail.com**
+- 📫 How to reach me ****
 
 - ⚡ Fun fact **I love cooking**
 
