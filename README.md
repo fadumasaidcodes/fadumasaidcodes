@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [React-Porfolio](https://github.com/fadumasaidcodes/React-Portfolio)
+- 🔭 I’m currently working on [black-jack-game](https://github.com/fadumasaidcodes/black-jack-game)
 
 - 🌱 I’m currently learning **HTML, CSS, Bootstrap, JavaScript, Node.js, React, Git/Github**
 
